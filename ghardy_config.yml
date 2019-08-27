@@ -2,4 +2,7 @@ package_files:
   npm:
   - ./package.json
   - ./package-lock.json
+  rubygems:
+  - ./Gemfile
+  - ./Gemfile.lock
 created_at: 2019-08-27 14:38:46 UTC
